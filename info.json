@@ -1,0 +1,22 @@
+{
+    "name": "ChromiumKeyDump",
+    "version": "1.0.0",
+    "command": "chromiumkeydump",
+    "type": "bof",
+    "repository": "https://github.com/nukeratarmory/bof-collection",
+    "metadata": {
+        "author": [
+            {
+                "name": "crypt0p3g",
+                "original_repository": "https://github.com/crypt0p3g/bof-collection"
+            }
+        ],
+        "platform": [
+            "windows"
+        ],
+        "architecture": [
+            "x64",
+            "x86"
+        ]
+    }
+}
